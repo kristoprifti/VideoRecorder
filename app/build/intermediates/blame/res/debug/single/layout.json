@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recorder.xml",
+        "source": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\src\\main\\res\\layout\\activity_recorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ffmpeg_preview.xml",
+        "source": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\src\\main\\res\\layout\\activity_ffmpeg_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recorder_progress.xml",
+        "source": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\src\\main\\res\\layout\\activity_recorder_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_dialog.xml",
+        "source": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\src\\main\\res\\layout\\global_dialog.xml"
+    }
+]

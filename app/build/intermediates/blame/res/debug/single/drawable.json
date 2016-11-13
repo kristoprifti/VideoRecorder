@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_status_color.xml",
+        "source": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\src\\main\\res\\drawable\\button_status_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_video_text.xml",
+        "source": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\src\\main\\res\\drawable\\btn_recorder_video_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_video.xml",
+        "source": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\src\\main\\res\\drawable\\btn_recorder_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_next.xml",
+        "source": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\src\\main\\res\\drawable\\btn_recorder_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_frontcamera.xml",
+        "source": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\src\\main\\res\\drawable\\btn_recorder_frontcamera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_picture.xml",
+        "source": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\src\\main\\res\\drawable\\btn_recorder_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recorder_success_progress.xml",
+        "source": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\src\\main\\res\\drawable\\recorder_success_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_flashlight.xml",
+        "source": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\src\\main\\res\\drawable\\btn_recorder_flashlight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_cancel.xml",
+        "source": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\src\\main\\res\\drawable\\btn_recorder_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_globaldialog.xml",
+        "source": "C:\\Users\\Kristi\\Downloads\\TouchToRecord-master\\VideoRecorder\\app\\src\\main\\res\\drawable\\button_globaldialog.xml"
+    }
+]
